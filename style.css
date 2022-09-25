@@ -1,0 +1,29 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: deepskyblue;
+}
+.header_div
+{
+    background: blue;
+    color: aqua;
+}
+.header_div p
+{
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(121, 149, 149);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(0, 255, 0);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
